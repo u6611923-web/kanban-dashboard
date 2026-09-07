@@ -26,7 +26,7 @@ Dashboard
 ![Dashboard](./screenshots/db2.png)
 
 Group Member
-Zwe Htet Nyein 6611923
+Zwe Htet Nyein 
 
 
 Basic Usage
