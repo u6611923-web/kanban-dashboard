@@ -1,8 +1,7 @@
-# Kanban Board with Dashboard
+Kanban Board with Dashboard
+React JS task-management application with a three-column Kanban board and dashboard. The application stores all tasks and categories in browser Local Storage, so no backend is required.
 
-A React JS task-management application with a three-column Kanban board and dashboard. The application stores all tasks and categories in browser Local Storage, so no backend is required.
-
-## Features
+ Features
 
 - Three Kanban columns: TO DO, DOING, DONE
 - Create, edit, and delete tasks
@@ -16,25 +15,21 @@ A React JS task-management application with a three-column Kanban board and dash
 - Task category bar chart
 - Completion performance chart (Early / On Time / Late)
 
-## Screenshots
 
-Add your screenshots here before submission.
 
-### Kanban Board
+Kanban Board
 
-![Kanban Board](./screenshots/kanban-board.png)
+![Kanban Board](./screenshots/db1.png)
 
-### Dashboard
+Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/db2.png)
 
-## Group Members
+Group Member
+Zwe Htet Nyein 6611923
 
-- Member Name 1
-- Member Name 2
-- Member Name 3
 
-## Basic Usage
+Basic Usage
 
 1. Open the Kanban Board page.
 2. Click **New Task** to create a task.
@@ -43,20 +38,7 @@ Add your screenshots here before submission.
 5. Use the **Add category** field to create a new category.
 6. Open the **Dashboard** page to view task summaries and charts.
 
-## Run Locally
-
-```bash
-npm install
-npm run dev
-```
-
-## Build
-
-```bash
-npm run build
-```
-
-## Technologies
+ Technologies
 
 - React JS
 - Vite
